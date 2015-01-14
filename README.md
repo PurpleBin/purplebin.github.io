@@ -1,2 +1,2 @@
-# purplebin.github.io
-Purplebin.com
+# Purplebin.com
+We kickstart your projects from its nascent stage.
